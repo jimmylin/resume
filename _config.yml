@@ -3,10 +3,10 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Jimmy Lin
+title: Chief Architect
+email: jimmys.email@gmail.com
+website: jimmylin.github.io/resume
 
 # Social links
 twitter_username: facespics
